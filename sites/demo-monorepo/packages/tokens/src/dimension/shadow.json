@@ -1,0 +1,132 @@
+{
+	"shadow": {
+		"shadow-sm": {
+			"value": {
+				"color": "#0000000d",
+				"type": "dropShadow",
+				"x": 0,
+				"y": 1,
+				"blur": 2,
+				"spread": 0
+			},
+			"type": "boxShadow"
+		},
+		"shadow": {
+			"value": [
+				{
+					"color": "#0000001a",
+					"type": "dropShadow",
+					"x": 0,
+					"y": 1,
+					"blur": 2,
+					"spread": -1
+				},
+				{
+					"color": "#0000001a",
+					"type": "dropShadow",
+					"x": 0,
+					"y": 1,
+					"blur": 3,
+					"spread": 0
+				}
+			],
+			"type": "boxShadow"
+		},
+		"shadow-md": {
+			"value": [
+				{
+					"color": "#0000001a",
+					"type": "dropShadow",
+					"x": 0,
+					"y": 2,
+					"blur": 4,
+					"spread": -2
+				},
+				{
+					"color": "#0000001a",
+					"type": "dropShadow",
+					"x": 0,
+					"y": 4,
+					"blur": 6,
+					"spread": -1
+				}
+			],
+			"type": "boxShadow"
+		},
+		"shadow-lg": {
+			"value": [
+				{
+					"color": "#0000001a",
+					"type": "dropShadow",
+					"x": 0,
+					"y": 4,
+					"blur": 6,
+					"spread": -4
+				},
+				{
+					"color": "#0000001a",
+					"type": "dropShadow",
+					"x": 0,
+					"y": 10,
+					"blur": 15,
+					"spread": -3
+				}
+			],
+			"type": "boxShadow"
+		},
+		"shadow-xl": {
+			"value": [
+				{
+					"color": "#0000001a",
+					"type": "dropShadow",
+					"x": 0,
+					"y": 8,
+					"blur": 10,
+					"spread": -6
+				},
+				{
+					"color": "#0000001a",
+					"type": "dropShadow",
+					"x": 0,
+					"y": 20,
+					"blur": 25,
+					"spread": -5
+				}
+			],
+			"type": "boxShadow"
+		},
+		"shadow-2xl": {
+			"value": {
+				"color": "#00000040",
+				"type": "dropShadow",
+				"x": 0,
+				"y": 25,
+				"blur": 50,
+				"spread": -12
+			},
+			"type": "boxShadow"
+		},
+		"flat-shadow-md": {
+			"value": {
+				"color": "#0000001a",
+				"type": "dropShadow",
+				"x": 0,
+				"y": 4,
+				"blur": 0,
+				"spread": -1
+			},
+			"type": "boxShadow"
+		},
+		"flat-shadow": {
+			"value": {
+				"color": "#0000001a",
+				"type": "dropShadow",
+				"x": 0,
+				"y": 1,
+				"blur": 0,
+				"spread": 0
+			},
+			"type": "boxShadow"
+		}
+	}
+}

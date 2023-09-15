@@ -1,0 +1,41 @@
+{
+	"border": {
+		"$type": "color",
+		"default": {
+			"$value": "{color.brand.500}"
+		},
+		"hover": {
+			"$value": "{color.brand.600}"
+		},
+		"accent": {
+			"$value": "{color.accent.500}"
+		},
+		"accentHover": {
+			"$value": "{color.accent.600}"
+		},
+		"error": {
+			"$value": "{color.error.500}"
+		},
+		"errorHover": {
+			"$value": "{color.error.600}"
+		},
+		"info": {
+			"$value": "{color.info.500}"
+		},
+		"infoHover": {
+			"$value": "{color.info.600}"
+		},
+		"success": {
+			"$value": "{color.success.500}"
+		},
+		"successHover": {
+			"$value": "{color.success.600}"
+		},
+		"warning": {
+			"$value": "{color.warning.500}"
+		},
+		"warningHover": {
+			"$value": "{color.warning.600}"
+		}
+	}
+}

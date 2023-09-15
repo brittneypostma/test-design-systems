@@ -1,0 +1,15 @@
+{
+	"name": "craft",
+	"version": "0.0.1",
+	"description": "Craft is a comprehensive design system that works as a unified language across design, engineering, and product. Offering clear guidance and well-organized documentation provides transparency into the system progress and updates. A clean and delightful UI builds brand resonance, connecting customers seamlessly. Emphasizing accessibility promotes collaboration with all users ensuring an inclusive product for everyone. Optimizing for efficiency through lean and reusable patterns, creates positive experiences for all. Remaining flexible and receptive to new ideas and making purposeful decisions, drives innovation in every step. Craft helps to streamline your process with sparkling creativity in every drop. Raise a glass to good taste. Cheers!",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@changesets/cli": "^2.26.2"
+	}
+}

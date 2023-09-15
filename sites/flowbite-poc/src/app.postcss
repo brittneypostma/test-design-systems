@@ -1,0 +1,28 @@
+/* Write your global styles here, in PostCSS syntax */
+
+@tailwind base;
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+
+body {
+	@apply font-sans;
+}
+
+a {
+	@apply text-secondary-800;
+}
+
+@tailwind components;
+@tailwind utilities;
+
+.wrapper > * {
+	grid-column: 2;
+}
+
+.full-width {
+	grid-column: 1 / -1;
+}
+
+@tailwind components;
+
+@tailwind utilities;

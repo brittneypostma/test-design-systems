@@ -1,0 +1,28 @@
+{
+	"bg": {
+		"brand": {
+			"value": "{color.brand.800}",
+			"type": "color"
+		},
+		"accent": {
+			"value": "{color.accent.400}",
+			"type": "color"
+		},
+		"neutral": {
+			"value": "{color.neutral.50}",
+			"type": "color"
+		},
+		"error": {
+			"value": "{color.error.50}",
+			"type": "color"
+		},
+		"success": {
+			"value": "{color.success.50}",
+			"type": "color"
+		},
+		"warning": {
+			"value": "{color.warning.50}",
+			"type": "color"
+		}
+	}
+}
